@@ -3,3 +3,5 @@ Console.WriteLine("Hello, World!");
 // Code was edited in GitHub
 // Code was added in VS
 // Some other code
+
+// Code to call Feature1
